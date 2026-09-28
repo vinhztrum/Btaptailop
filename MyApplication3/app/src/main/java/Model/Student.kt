@@ -5,6 +5,6 @@ class Student (
     val fullName: String,
     val className: String,
     val age: Int,
-    val score: Double
-
+    val score: Double,
+    val major: String
     )
